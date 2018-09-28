@@ -1,6 +1,6 @@
 """
 stringjumble.py
-Author: <your name>
+Author: Kyle Rozzi
 Credit: https://www.quora.com/How-can-I-reverse-a-list-in-python   https://www.geeksforgeeks.org/join-function-python/
 
 Assignment:
